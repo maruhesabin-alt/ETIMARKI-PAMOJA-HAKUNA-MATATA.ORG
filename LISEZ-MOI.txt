@@ -1,0 +1,4 @@
+SITE ETIMARKI — fichier unique
+
+Double-cliquez sur index.html : toutes les pages et photos sont dans ce seul fichier.
+Formulaire de contact, administration et carte interactive : uniquement sur le site complet (etimarki-site.zip).
